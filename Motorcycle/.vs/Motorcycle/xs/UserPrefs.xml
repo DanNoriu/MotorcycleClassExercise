@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{3C749471-788B-46E0-8E49-742694C76C4B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Motorcycle/Motorcycle.cs">
+    <Files>
+      <File FileName="Motorcycle/Motorcycle.cs" Line="29" Column="18" />
+      <File FileName="Motorcycle/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Motorcycle PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

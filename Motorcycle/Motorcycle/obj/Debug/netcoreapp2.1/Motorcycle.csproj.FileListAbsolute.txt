@@ -1,0 +1,11 @@
+/Users/DanielNor/Projects/Motorcycle/Motorcycle/bin/Debug/netcoreapp2.1/Motorcycle.deps.json
+/Users/DanielNor/Projects/Motorcycle/Motorcycle/bin/Debug/netcoreapp2.1/Motorcycle.runtimeconfig.json
+/Users/DanielNor/Projects/Motorcycle/Motorcycle/bin/Debug/netcoreapp2.1/Motorcycle.runtimeconfig.dev.json
+/Users/DanielNor/Projects/Motorcycle/Motorcycle/bin/Debug/netcoreapp2.1/Motorcycle.dll
+/Users/DanielNor/Projects/Motorcycle/Motorcycle/bin/Debug/netcoreapp2.1/Motorcycle.pdb
+/Users/DanielNor/Projects/Motorcycle/Motorcycle/obj/Debug/netcoreapp2.1/Motorcycle.csprojAssemblyReference.cache
+/Users/DanielNor/Projects/Motorcycle/Motorcycle/obj/Debug/netcoreapp2.1/Motorcycle.csproj.CoreCompileInputs.cache
+/Users/DanielNor/Projects/Motorcycle/Motorcycle/obj/Debug/netcoreapp2.1/Motorcycle.AssemblyInfoInputs.cache
+/Users/DanielNor/Projects/Motorcycle/Motorcycle/obj/Debug/netcoreapp2.1/Motorcycle.AssemblyInfo.cs
+/Users/DanielNor/Projects/Motorcycle/Motorcycle/obj/Debug/netcoreapp2.1/Motorcycle.dll
+/Users/DanielNor/Projects/Motorcycle/Motorcycle/obj/Debug/netcoreapp2.1/Motorcycle.pdb
